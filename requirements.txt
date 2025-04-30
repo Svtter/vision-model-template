@@ -1,0 +1,9 @@
+lightning
+numpy<2.0
+matplotlib
+wandb
+jupyterlab
+opencv-python
+pandas
+torchvision
+torchviz
