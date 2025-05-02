@@ -1,6 +1,6 @@
 {
   "name": "vision-model",
-  "dockerComposeFile": "../docker-compose.yml",
+  "dockerComposeFile": "../docker-compose.yaml",
   "service": "notebook",
   "workspaceFolder": "/app",
   "shutdownAction": "none",
