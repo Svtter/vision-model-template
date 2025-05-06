@@ -1,0 +1,13 @@
+{
+  "python.analysis.exclude": [
+    "/app/data",
+    "/app/data/**",
+    "./data/**",
+    "./data"
+  ],
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "python.envFile": "${workspaceFolder}/.env"
+}
