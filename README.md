@@ -11,3 +11,7 @@ This is a base template for building vision models, making it relatively easy to
 5. wandb
 6. ruff
 7. notebooks
+
+## Docker Image
+
+`svtter/lightning`
