@@ -8,6 +8,7 @@
     "vscode": {
       "extensions": [
         "ms-python.python",
+        "meta.pyrefly",
         "ms-azuretools.vscode-docker",
         "tamasfe.even-better-toml",
         "charliermarsh.ruff",
